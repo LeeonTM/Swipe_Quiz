@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swipe Quiz Kotlin</string>
+    <string name="quizTitle"><b>Quiz instructions</b>\nSwipe left for true, swipe right for false.\nClick on the question for the answer.\n\n</string>
+    <string-array name="questions">
+        <item>Is it time for coffee?</item>
+        <item>Does Kotlin have a ternary operator?</item>
+        <item>Is Kotlin fun?</item>
+    </string-array>
+    <string name="correct">Correct! The answer was: %1$s</string>
+    <string name="incorrect">Incorrect! The answer was: %1$s</string>
+</resources>
